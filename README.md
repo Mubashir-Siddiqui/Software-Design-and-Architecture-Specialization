@@ -1,5 +1,5 @@
 # Software Design and Architecture Specialization Assignments
-This repo contains all my assignment work while going through [Software Design and Architecture Specialization](https://www.coursera.org/specializations/software-design-architecture) in Coursera.
+This repo contains all my assignment work while going through [Software Design and Architecture Specialization](https://www.coursera.org/specializations/software-design-architecture) in Coursera. 
 
 #### Offered By
 [![N|Solid](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-university-assets.s3.amazonaws.com/35/23d929219e4489c2d11215009dc699/coursera_180x180.png?auto=format%2Ccompress&dpr=1&w=120&h=120&q=40)](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-university-assets.s3.amazonaws.com/35/23d929219e4489c2d11215009dc699/coursera_180x180.png?auto=format%2Ccompress&dpr=1&w=120&h=120&q=40)
