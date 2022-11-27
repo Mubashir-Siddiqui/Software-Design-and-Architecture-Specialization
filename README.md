@@ -5,7 +5,7 @@ This repo contains all my assignment work while going through [Software Design a
 [![N|Solid](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-university-assets.s3.amazonaws.com/35/23d929219e4489c2d11215009dc699/coursera_180x180.png?auto=format%2Ccompress&dpr=1&w=120&h=120&q=40)](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-university-assets.s3.amazonaws.com/35/23d929219e4489c2d11215009dc699/coursera_180x180.png?auto=format%2Ccompress&dpr=1&w=120&h=120&q=40)
 
 ## About this Specialization
-In the Software Design and Architecture Specialization, you will learn how to apply design principles, patterns, and architectures to create reusable and flexible software applications and systems. You will learn how to express and document the design and architecture of a software system using a visual notation.
+In the Software Design and Architecture Specialization, you will learn how to apply design principles, patterns, and architectures to create reusable and flexible software applications and systems. You will learn how to express and document the design and architecture of a software system using a visual notation. 
 
 ### There are 4 Courses in this Specialization:
 
